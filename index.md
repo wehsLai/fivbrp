@@ -6,7 +6,7 @@ categories: []
 tags: []
 ---
 
-All Statistics are collected from [volleyballworld](https://en.volleyballworld.com/)
+All statistics are collected from [volleyballworld](https://en.volleyballworld.com/)
 
 # Team Comparison
 1. [Volleyball Nations League 2022 Women Week 1](stats/vnl-2022_women_week1_team_report.html)
