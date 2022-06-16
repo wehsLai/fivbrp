@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Author: [FL_肆柒 @filco147](https://www.plurk.com/filco147)
+_Author: [FL_肆柒 @filco147](https://www.plurk.com/filco147)_
 
 All statistics are collected from [volleyballworld](https://en.volleyballworld.com/)
 
