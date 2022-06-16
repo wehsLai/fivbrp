@@ -1,11 +1,6 @@
 ---
-title: "VB Statistics"
-author: FL_肆柒 @filco147
-
-categories: []
-tags: []
+layout: default
 ---
-
 All statistics are collected from [volleyballworld](https://en.volleyballworld.com/)
 
 # Team Comparison
