@@ -1,8 +1,6 @@
 ---
 title: "VB Statistics"
 author: FL_肆柒 @filco147
-date: {{ .Date }}
-draft: false
 
 categories: []
 tags: []
