@@ -1,5 +1,5 @@
 ---
-title: "VB Statistics md"
+title: "VB Statistics"
 author: FL_肆柒 @filco147
 
 categories: []
