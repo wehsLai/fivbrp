@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+Author: [FL_肆柒 @filco147](https://www.plurk.com/filco147)
+
 All statistics are collected from [volleyballworld](https://en.volleyballworld.com/)
 
 # Team Comparison
