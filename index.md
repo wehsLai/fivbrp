@@ -6,6 +6,6 @@ Author: [wehsLai](https://github.com/wehsLai)
 All statistics are collected from [FIVB](https://www.fivb.com/)
 
 # Report
-1. [Volleyball Nations League 2022 Preliminary Round](stats/wvnl2022_preliminary.html)
-2. [Volleyball Nations League 2022 Preliminary Round](stats/mvnl2022_preliminary.html)
+1. [Volleyball Nations League Women 2022 - preliminary round](stats/wvnl2022.html)
+2. [Volleyball Nations League Men 2022 - preliminary round](stats/mvnl2022.html)
 
