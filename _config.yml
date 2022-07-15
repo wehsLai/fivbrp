@@ -2,3 +2,10 @@ theme: jekyll-theme-primer
 
 title: VB Statistics
 description: FL_肆柒
+
+github:
+  private: false
+  license:
+    name: MIT
+  repository_url: https://github.com/wehsLai/fivbrp
+  another_url: https://github.com/wehsLai/fivbviz

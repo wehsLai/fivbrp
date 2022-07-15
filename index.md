@@ -3,6 +3,7 @@ layout: default
 ---
 Author: [wehsLai](https://github.com/wehsLai)
 
+Display interactive report generated from fivbviz.
 All statistics are collected from [FIVB](https://www.fivb.com/)
 
 # Report

@@ -1,2 +1,2 @@
 # fivbrp
-Visualize FIVB Data
+Display interactive report generated from fivbviz
