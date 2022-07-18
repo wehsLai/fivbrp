@@ -12,7 +12,7 @@ All statistics are collected from [FIVB](https://www.fivb.com/)
 
 ## Volleyball Nations League Women 2022
 - [All](stats/wvnl2022.html)
-- [final round](stats/wvnl2022_f.html)
+- [Final Round](stats/wvnl2022_f.html)
 
 ## Volleyball Nations League Men 2022
-- [preliminary round](stats/mvnl2022.html)
+- [Preliminary Round](stats/mvnl2022.html)
