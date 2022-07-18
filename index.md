@@ -2,7 +2,8 @@
 layout: default
 ---
 Author: wehsLai
-[repository](https://github.com/wehsLai/fivbrp)
+
+Github Repository: [fivbrp](https://github.com/wehsLai/fivbrp)
 
 Display interactive report generated from [fivbviz](https://github.com/wehsLai/fivbviz).
 All statistics are collected from [FIVB](https://www.fivb.com/)
