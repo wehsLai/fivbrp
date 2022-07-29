@@ -1,7 +1,5 @@
 ---
 layout: default
-includes:
-  after_body: footer.html
 ---
 [<i class="fa fa-user" aria-label="fa-user icon"></i> wehsLai](https://github.com/wehsLai)  
 [<i class="fa fa-github" aria-label="fa-github icon"></i> fivbrp](https://github.com/wehsLai/fivbrp)
