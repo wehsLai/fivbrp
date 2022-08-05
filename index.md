@@ -8,10 +8,11 @@ fivbrp is a website to display interactive volleyball report generated from [<i 
 All statistics are collected from [FIVB](https://www.fivb.com/).
 
 ## Report
-### Volleyball Nations League Men 2022
-- [All](stats/mvnl2022.html)
-- [Final Round](stats/mvnl2022_f.html)
 
-### Volleyball Nations League Women 2022
-- [All](stats/wvnl2022.html)
-- [Final Round](stats/wvnl2022_f.html)
+### 2022
+- [Volleyball Nations League Men 2022](stats/mvnl2022.html)
+- [Volleyball Nations League Women 2022](stats/wvnl2022.html)
+
+### 2021
+- [Tokyo Olympic Games - Women’s Tournament](stats/wog2020.html)
+- [Tokyo Olympic Games - Men’s Tournament](stats/mog2020.html)
