@@ -10,6 +10,7 @@ All statistics are collected from [FIVB](https://www.fivb.com/).
 ## Report
 
 ### 2022
+- [FIVB Volleyball Men's World Championship 2022](stats/mwch2022.html)
 - [Volleyball Nations League Men 2022](stats/mvnl2022.html)
 - [Volleyball Nations League Women 2022](stats/wvnl2022.html)
 - [21st Asian Women’s U20 Volleyball Championship](stats/aswu2022.html)
