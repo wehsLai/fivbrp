@@ -9,6 +9,9 @@ All statistics are collected from [FIVB](https://www.fivb.com/).
 
 ## Report
 
+### 2023
+- [Men’s Asian Senior Championship 2023](stats/mavc2023.html)
+
 ### 2022
 - [FIVB Volleyball Women's World Championship Netherlands - Poland 2022](stats/wwch2022.html)
 - [FIVB Volleyball Men's World Championship 2022](stats/mwch2022.html)
