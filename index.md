@@ -11,7 +11,7 @@ All statistics are collected from [FIVB VIS](https://www.fivb.com/).
 ## Report
 
 ### 2024
-- [Women's Volleyball Nations League 2024(week1-3)](stats/wvnl2024.html)
+- [Women's Volleyball Nations League 2024](stats/wvnl2024.html)
 
 ### 2023
 - [Men’s Asian Senior Championship 2023](stats/mavc2023.html)
