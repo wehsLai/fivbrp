@@ -10,6 +10,9 @@ All statistics are collected from [FIVB VIS](https://www.fivb.com/).
 
 ## Report
 
+### 2025
+- [FIVB Volleyball Girls’ U19 World Championship 2025](gu192025.html)
+
 ### 2024
 - [Women's Volleyball Nations League 2024](stats/wvnl2024.html)
 
